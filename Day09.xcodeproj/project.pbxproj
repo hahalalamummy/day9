@@ -302,6 +302,7 @@
 				84D199461DCB77C1001A0CD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
